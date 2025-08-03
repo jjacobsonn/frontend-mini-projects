@@ -8,6 +8,6 @@ This repository contains a collection of frontend projects I built to practice H
 | -------------------- | ------------------------------------------ |
 | `flexbox`            | Responsive layout demonstration using CSS Flexbox |
 | `survey-form`        | A user-friendly responsive survey form     |
-| `movie-seat-booking` | A UI mockup for selecting movie seats      |
+| `movie-seat-booking` | Interactive cinema seat selection with dynamic pricing |
 | `responsive-navbar`  | Mobile-first navigation bar with toggle    |
 | `css-animation-demo` | Demo of transitions and keyframe animation |
