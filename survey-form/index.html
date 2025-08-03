@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Job Application Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1 id="title" class="color-1">Apply For A Job?</h1>
+    <p id="description">
+      Please fill out the form below with the requested information.
+    </p>
+    <form id="survey-form" action="https://register-demo.freecodecamp.org">
+      <fieldset>
+        <label id="name-label" class="color-1">Enter Your Full Name: <input type="text" id="name" required placeholder="Enter Your Full Name" /></label>
+        <label id="email-label" class="color-1">Enter Your Email: <input type="email" id="email" required placeholder="Enter Your Email" /></label>
+        <label id="phone-label" class="color-1">Enter Your Phone Number: <input type="phone" id="phone" required placeholder="Enter Your Phone Number" /></label>
+        <label id="file-label" class="color-1">Upload Resume: <input type="file" id="file" /></label>
+      </fieldset>
+      <fieldset>
+        <label class="color-1">How Did You Hear About This Job?</label>
+        <label><input type="radio" name="radio" class="inline" value="friend" /> Recommended By Friend</label>
+        <label><input type="radio" name="radio" class="inline" value="google" /> Google Search Engine</label>
+        <label><input type="radio" name="radio" class="inline" value="linkedin" /> LinkedIn</label>
+        <label><input type="radio" name="radio" class="inline" value="website" /> Careers Website / School Job Board</label>
+        <label><input type="radio" name="radio" class="inline" value="socialm" /> Social Media</label>
+        <label><input type="radio" name="radio" class="inline" value="oth" /> Other</label>
+      </fieldset>
+      <fieldset>
+        <label class="color-1">What Social Media Platforms Do You Use (select all that apply):</label>
+          <label for="linked"><input type="checkbox" class="inline" value="linked">LinkedIn</label>
+          <label for="github"><input type="checkbox" class="inline" value="github">GitHub</label>
+          <label for="twitter"><input type="checkbox" class="inline" value="twitter">Twitter</label>
+          <label for="facebook"><input type="checkbox" class="inline" value="facebook">Facebook</label>
+          <label for="pinterest"><input type="checkbox" class="inline" value="pinterest">Pinterest</label>
+          <label for="youtube"><input type="checkbox" class="inline" value="youtube">YouTube</label>
+          <label for="other"><input type="checkbox" class="inline" value="other">Other</label>
+      </fieldset>
+      <fieldset>
+        <label id="number-label" class="color-1">Work Related Experience (years): <input type="number" id="number" name="age" min="1" max="50" placeholder="Enter Job Experience (years)" />
+        <label class="color-1">What Position Are You Applying For?
+          <select id="dropdown" name="referrer">
+            <option value="0">(select one)</option>
+            <option value="1">Workfront Consultant</option>
+            <option value="2">Customer Success Engineer</option>
+            <option value="3">Sales Development Representative</option>
+            <option value="4">Buisness Analyst</option>
+            <option value="5">Full Stack Developer</option>
+            <option value="6">I.T. HelpDesk Technician</option>
+            <option value="7">Other</option>
+          </select>
+        </label>
+        <label class="color-1">Tell Us About Yourself:
+          <textarea name="bio" rows="3" cols="30" placeholder="Write a brief description here..."></textarea>
+			  </label>
+        <label class="color-2">
+          <div class="center"><input type="checkbox" value="terms" class="inline" name="tos" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a></div>
+			  </label>
+      </fieldset>
+      <input id="submit" type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
