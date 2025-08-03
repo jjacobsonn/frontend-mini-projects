@@ -10,6 +10,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `survey-form`        | Professional job application form with HTML5 validation | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/survey-form) |
 | `movie-seat-booking` | Interactive cinema seat selection with dynamic pricing | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/movie-seat-booking) |
 | `blog`               | Modern responsive blog website with category filtering | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/blog) |
+| `nav-bar1`           | Responsive navigation bar with mobile hamburger menu | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/nav-bar1) |
 
 ## Features
 
