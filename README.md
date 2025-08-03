@@ -6,7 +6,7 @@ This repository contains a collection of frontend projects I built to practice H
 
 | Project Name         | Description                                |
 | -------------------- | ------------------------------------------ |
-| `flexbox-layout`     | A layout example using CSS Flexbox         |
+| `flexbox`            | Responsive layout demonstration using CSS Flexbox |
 | `survey-form`        | A user-friendly responsive survey form     |
 | `movie-seat-booking` | A UI mockup for selecting movie seats      |
 | `responsive-navbar`  | Mobile-first navigation bar with toggle    |
