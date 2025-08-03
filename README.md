@@ -15,6 +15,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `footer`             | Professional website footer with social media integration | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/footer) |
 | `table-css-1`        | Professional data table with sticky headers and product management | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/table-css-1) |
 | `responsive-food-site` | Complete responsive restaurant website with multiple sections | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-food-site) |
+| `to-do-list`         | Interactive task management application with add, edit, and delete functionality | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/to-do-list) |
 
 ## Features
 
