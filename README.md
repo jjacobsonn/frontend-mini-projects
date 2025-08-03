@@ -26,37 +26,6 @@ This repository contains a collection of frontend projects I built to practice H
 - **JavaScript**: DOM manipulation, event handling, and interactive functionality
 - **External Libraries**: Google Fonts, Boxicons for enhanced visual design
 
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/jjacobsonn/frontend-mini-projects.git
-   ```
-
-2. **Navigate to any project**:
-   ```bash
-   cd frontend-mini-projects/[project-name]
-   ```
-
-3. **Open in browser**:
-   ```bash
-   open index.html
-   ```
-
-## Project Highlights
-
-### 🎯 **Flexbox Layout**
-Advanced responsive layout techniques using CSS Flexbox with mobile-first design principles.
-
-### 📝 **Survey Form** 
-Professional job application form featuring HTML5 validation, accessibility best practices, and clean UI design.
-
-### 🎬 **Movie Seat Booking**
-Interactive cinema seat selection system with dynamic pricing, localStorage persistence, and real-time calculations.
-
-### 📚 **Blog Website**
-Modern blog interface with responsive grid layout, category filtering, and professional content organization.
-
 ## Learning Outcomes
 
 These projects demonstrate proficiency in:
@@ -69,6 +38,3 @@ These projects demonstrate proficiency in:
 
 ---
 
-**Portfolio**: [Live Demo](https://jjacobsonn.github.io/frontend-mini-projects)  
-**Repository**: [GitHub](https://github.com/jjacobsonn/frontend-mini-projects)  
-**Contact**: [Your Contact Information]
