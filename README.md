@@ -13,6 +13,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `nav-bar1`           | Responsive navigation bar with mobile hamburger menu | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/nav-bar1) |
 | `nav-bar2`           | Clean horizontal navigation bar with professional styling | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/nav-bar2) |
 | `footer`             | Professional website footer with social media integration | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/footer) |
+| `table-css-1`        | Professional data table with sticky headers and product management | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/table-css-1) |
 
 ## Features
 
