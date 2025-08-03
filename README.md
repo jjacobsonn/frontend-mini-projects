@@ -1,0 +1,13 @@
+# Frontend Mini Projects
+
+This repository contains a collection of frontend projects I built to practice HTML, CSS, and JavaScript. Each project is in its own folder and can be run independently.
+
+## Projects
+
+| Project Name         | Description                                |
+| -------------------- | ------------------------------------------ |
+| `flexbox-layout`     | A layout example using CSS Flexbox         |
+| `survey-form`        | A user-friendly responsive survey form     |
+| `movie-seat-booking` | A UI mockup for selecting movie seats      |
+| `responsive-navbar`  | Mobile-first navigation bar with toggle    |
+| `css-animation-demo` | Demo of transitions and keyframe animation |
