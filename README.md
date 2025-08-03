@@ -11,6 +11,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `movie-seat-booking` | Interactive cinema seat selection with dynamic pricing | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/movie-seat-booking) |
 | `blog`               | Modern responsive blog website with category filtering | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/blog) |
 | `nav-bar1`           | Responsive navigation bar with mobile hamburger menu | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/nav-bar1) |
+| `nav-bar2`           | Clean horizontal navigation bar with professional styling | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/nav-bar2) |
 
 ## Features
 
