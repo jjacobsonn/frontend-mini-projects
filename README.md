@@ -16,6 +16,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `table-css-1`        | Professional data table with sticky headers and product management | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/table-css-1) |
 | `responsive-food-site` | Complete responsive restaurant website with multiple sections | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-food-site) |
 | `to-do-list`         | Interactive task management application with add, edit, and delete functionality | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/to-do-list) |
+| `what-the-flexbox`   | Visual Flexbox playground and tutorial for learning modern CSS layouts | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/what-the-flexbox) |
 
 ## Features
 
