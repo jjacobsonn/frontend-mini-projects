@@ -19,6 +19,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `what-the-flexbox`   | Visual Flexbox playground and tutorial for learning modern CSS layouts | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/what-the-flexbox) |
 | `technical-documentation` | Responsive technical documentation site with fixed sidebar navigation | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/technical-documentation) |
 | `random-meme-generator` | Fun app that fetches and displays random memes from a public API | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/random-meme-generator) |
+| `responsive-contact-page` | Clean, responsive contact form page with modern UI and accessibility | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-page) |
 
 ## Features
 
