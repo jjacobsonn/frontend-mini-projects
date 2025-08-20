@@ -253,17 +253,6 @@ This project demonstrates understanding of:
 4. Test mobile functionality by resizing browser or using device tools
 5. Experience smooth scrolling and interactive elements
 
-## Future Enhancements
-
-- [ ] Add online reservation system integration
-- [ ] Implement menu item filtering and search
-- [ ] Add shopping cart functionality for online ordering
-- [ ] Include location map integration with Google Maps
-- [ ] Add image gallery with lightbox functionality
-- [ ] Implement form validation and submission handling
-- [ ] Add loading animations and scroll-triggered effects
-- [ ] Include social media integration and sharing
-
 ---
 
 **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Google Fonts  

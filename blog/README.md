@@ -163,17 +163,6 @@ This project demonstrates understanding of:
 4. Test responsive behavior by resizing the browser
 5. Explore the filter functionality (expandable with JavaScript)
 
-## Future Enhancements
-
-- [ ] Implement JavaScript filtering functionality for categories
-- [ ] Add blog post detail pages with full content
-- [ ] Integrate search functionality across posts
-- [ ] Add pagination for large numbers of posts
-- [ ] Implement dark/light theme toggle
-- [ ] Add social media sharing buttons
-- [ ] Include comment system integration
-- [ ] Add loading animations and transitions
-
 ---
 
 **Tech Stack**: HTML5, CSS3, Google Fonts, Boxicons  
