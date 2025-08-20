@@ -183,17 +183,6 @@ This project demonstrates understanding of:
 4. Hover over table rows to see interactive effects
 5. Observe the professional styling and image integration
 
-## Future Enhancements
-
-- [ ] Implement JavaScript for search functionality
-- [ ] Add sorting capabilities for table columns
-- [ ] Include pagination for large datasets
-- [ ] Add edit/delete action buttons for each row
-- [ ] Implement responsive design for mobile devices
-- [ ] Add data export functionality (CSV, PDF)
-- [ ] Include loading states and skeleton UI
-- [ ] Add bulk selection with checkboxes
-
 ---
 
 **Tech Stack**: HTML5, CSS3, Google Fonts, Font Awesome  
