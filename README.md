@@ -18,6 +18,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `to-do-list`         | Interactive task management application with add, edit, and delete functionality | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/to-do-list) |
 | `what-the-flexbox`   | Visual Flexbox playground and tutorial for learning modern CSS layouts | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/what-the-flexbox) |
 | `technical-documentation` | Responsive technical documentation site with fixed sidebar navigation | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/technical-documentation) |
+| `random-meme-generator` | Fun app that fetches and displays random memes from a public API | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/random-meme-generator) |
 
 ## Features
 
