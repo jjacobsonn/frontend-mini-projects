@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>ReactJS Documentation</header>
+      <ul>
+        <li>
+          <a class="nav-link" href="#Introduction">Introduction</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#How_Does_React_Work">How Does React Work</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#Getting_Started_with_React">Getting Started with React</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_ES6">React ES6</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Render_HTML">React Render HTML</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Components">React Components</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Class">React Class</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Props">React Props</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Events">React Events</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Conditions">React Conditions</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Lists">React Lists</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Forms">React Forms</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#React_Router">React Router</a>
+        </li>
+        <li>
+          <a class="nav-link" href="#References">References</a>
+        </li>
+      </ul>
+    </nav>
+    <main id="main-doc">
+        <section class="main-section" id="Introduction">
+            <header>Introduction</header>
+            <article>
+              <p>
+                ReactJS is an open-source JavaScript library developed by Facebook for building user interfaces (UIs). ReactJS is designed to simplify the process of creating reusable UI components that can be easily composed to build complex user interfaces.
+              </p>
+            </article>
+        </section>
+
+        <section class="main-section" id="How_Does_React_Work">
+            <header>How Does React Work</header>
+            <article>
+              <p>
+                ReactJS is built around the concept of a "virtual DOM", which is a lightweight representation of the actual DOM (Document Object Model) that is used by web browsers to render web pages. By using a virtual DOM, ReactJS is able to efficiently update the UI in response to changes in application state, without the need to re-render the entire page.
+              </p>
+      
+              <br />
+      
+              <p>
+                ReactJS also allows developers to write components using a declarative syntax, which makes it easier to reason about how the UI is constructed and how it will behave in response to user interactions. ReactJS also supports a wide range of tools and libraries, which makes it easy to integrate with other technologies and systems.
+              </p>
+      
+              <br />
+      
+              <p>
+                ReactJS has become one of the most popular JavaScript libraries for building web applications, due to its simplicity, flexibility, and high performance. Whether you're building a simple web page or a complex web application, ReactJS provides a powerful toolset for creating reusable, modular UI components that can be easily composed to build complex user interfaces.
+              </p>
+              <br />
+            </article>
+        </section>
+
+        <section class="main-section" id="Getting_Started_with_React">
+            <header>Getting Started with React</header>
+            <article>
+              <p>
+                To use React in production, you need npm which is included with Node.js. To get an overview of what React is, you can write React code directly in HTML. But in order to use React in production, you need npm and Node.js installed.
+              </p>
+      
+              <p>
+                The quickest way start learning React is to write React directly in your HTML files. Start by including three scripts, the first two let us write React code in our JavaScripts, and the third, Babel, allows us to write JSX syntax and ES6 in older browsers.
+              </p>
+      
+              <p>
+                Include three CDN's in your HTML file:
+                <br />
+                <code>
+                    ReactDOM.render(<Hello />, document.getElementById('mydiv'))
+                </code>
+              </p>
+              
+              <br />
+            </article>
+          </section>
+
+          <section class="main-section" id="React_ES6">
+            <header>React ES6</header>
+            <article>
+              <p>
+                ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
+              </p>
+              
+              <p>
+                React uses ES6, and you should be familiar with some of the new features like:
+              </p>
+              <ul>
+                <li>
+                  Classes
+                </li>
+                <li>
+                  Arrow Functions
+                </li>
+                <li>
+                  Variables (let, const, var)
+                </li>
+                <li>
+                  Array Methods (like <code>.map</code>)
+                </li>
+                <li>
+                  Destructuring
+                </li>
+                <li>
+                  Modules
+                </li>
+                <li>
+                  Ternary Operator
+                </li>
+                <li>
+                  Spread Operator
+                </li>
+              </ul>
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Render_HTML">
+            <header>React Render HTML</header>
+            <article>
+              <p>
+                SX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+              </p>
+    
+              <p>
+                JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement()  and/or appendChild() methods. JSX converts HTML tags into react elements. You are not required to use JSX, but JSX makes it easier to write React applications.
+              </p>
+
+              <p>
+                Here are two examples. The first uses JSX and the second does not:
+              </p>
+
+              <p>
+                Example #1 (JSX):
+              </p>
+
+              <code>
+                const root = ReactDOM.createRoot(document.getElementById('root')); <br />
+                root.render(myElement);
+              </code>
+
+              <br />
+
+              <p>
+                Example #2 (Without JSX):
+              </p>
+
+              <code>
+                const myElement = React.createElement('h1', {}, 'I do not use JSX!'); <br />
+
+                const root = ReactDOM.createRoot(document.getElementById('root')); <br />
+                root.render(myElement); <br />
+              </code>
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Components">
+            <br />
+            <header>React Components</header>
+            <article>
+              <p>
+                Components are like functions that return HTML elements. Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components.
+              </p>
+
+              <p>
+                When creating a React component, the component's name MUST start with an upper case letter.                 A class component must include the extends React.Component statement. This statement creates an inheritance to React. Component, and gives your component access to React.Component's functions. The component also requires a render() method, this method returns HTML.
+              </p>
+              <br />
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Class">
+            <header>React Class</header>
+            <article>
+              <p>
+                Before React 16.8, Class components were the only way to track state and lifecycle on a React component. Function components were considered "state-less".
+              </p>
+
+              <p>
+                With the addition of Hooks, Function components are now almost equivalent to Class components. The differences are so minor that you will probably never need to use a Class component in React.
+              </p>
+
+              <p>
+                Even though Function components are preferred, there are no current plans on removing Class components from React.
+              </p>
+
+              <p>
+                Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML via a render() function. Components come in two types, Class components and Function components, in this chapter you will learn about Class components.
+              </p>
+
+              <p>
+                When creating a React component, the component's name must start with an upper case letter. The component has to include the extends React.Component statement, this statement creates an inheritance to React.Component, and gives your component access to React.Component's functions. The component also requires a render() method, this method returns HTML.
+              </p>
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Props">
+            <header>React Props</header>
+            <article>
+              <p>
+                Props are arguments passed into React components. Props are passed to components via HTML attributes. props stands for properties. React Props are like function arguments in JavaScript and attributes in HTML.
+              </p>
+
+              <p>
+                To send props into a component, use the same syntax as HTML attributes:
+              </p>
+
+              <p>
+                Add a "brand" attribute to the Car element:
+              </p>
+
+              <code>
+                const myElement = <Car brand="Ford" />;
+              </code>
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Events">
+            <header>React Events</header>
+            <article>
+              <p>
+                Just like HTML DOM events, React can perform actions based on user events. React has the same events as HTML: click, change, mouseover etc.
+              </p>
+
+              <p>
+                Adding Events: React events are written in camelCase syntax:
+              </p>
+
+              <p>
+                onClick instead of onclick. React event handlers are written inside curly braces: onClick={shoot}  instead of onClick="shoot()".
+              </p>
+            </article>
+          </section>
+
+          <section class="main-section" id="#React_Conditions">
+            <header>React Conditionals</header>
+            <article>
+              In React, you can conditionally render components. There are several ways to do this. One way is by using an if statement, We can use the if JavaScript operator to decide which component to render.
+            </article>
+            <br />
+          </section>
+
+          <section class="main-section" id="React_Lists">
+            <header>React Lists</header>
+            <article>
+              <p>
+                In React, you will render lists with some type of loop. The JavaScript map() array method is generally the preferred method.</p>
+            </article>
+          </section>
+
+          <section class="main-section" id="React_Forms">
+            <header>React Forms</header>
+            <article>
+              Just like in HTML, React uses forms to allow users to interact with the web page.
+            </article>
+          </section>
+    </main>
+  </body>
+</html>
