@@ -21,6 +21,8 @@ This repository contains a collection of frontend projects I built to practice H
 | `random-meme-generator` | Fun app that fetches and displays random memes from a public API | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/random-meme-generator) |
 | `responsive-contact-page` | Clean, responsive contact form page with modern UI and accessibility | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-page) |
 
+| `responsive-contact-2` | Modern, responsive contact form with accessible markup and custom styling | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-2) |
+
 ## Features
 
 - **Responsive Design**: All projects are built with mobile-first approach

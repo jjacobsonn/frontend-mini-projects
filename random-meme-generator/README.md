@@ -3,7 +3,11 @@
 
 ## Overview
 
-A fun, interactive web app that fetches and displays random memes using the Meme API. Built with HTML, CSS, and JavaScript, this project demonstrates API integration, dynamic DOM updates, and a clean, responsive UI.
+A fun, interactive web app that fetches and displays random memes using the Meme API. Built with HTML, CSS, and JavaScript, this project demonstrates API integration, dynamic DOM updates, and a clean, responsive UI. 
+
+THIS IS NOT MY WORK / ARTWORK! I USED THIS FOR MY OWN PERSONAL LEARNING!!
+
+Credit: https://github.com/rajkashyap16/30-Days-challange/tree/da1f7b69013294e855013fd2793774d89b6996f0/Day%2022%20Meme%20Generator/index.html
 
 ## Preview
 
