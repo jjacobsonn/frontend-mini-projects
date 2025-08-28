@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section class="visitor-form">
+        <h1>Registration Form</h1>
+    <p>Please fill out this form with the required information</p>
+    <form method="post" action='#'>
+      <fieldset>
+        <label for="first-name">Enter Your First Name: <input id="first-name" name="first-name" type="text" required /></label>
+        <label for="last-name">Enter Your Last Name: <input id="last-name" name="last-name" type="text" required /></label>
+        <label for="address">Enter Your Address: <input id="address" name="address" type="text" required></label>        
+        <label for="zip">Enter Your Zip Code: <input id="zip" name="zip" type="text" required></label>
+        <label for="phone-number">Enter Your Phone Number: <input id="phone-number" name="phone-number" type="tel" required></label>
+        <label for="email">Enter Your Email:<input id="email" name="email" type="email" required></label>
+      </fieldset>
+      <fieldset>
+        <h4>How did you find my page?</h4>
+        <label for="search-engine">
+            <input id="search-engine" type="checkbox" name="search-engine" class="inline">Search Engine
+        </label>
+        <label for="social-media">
+            <input id="social-media" type="checkbox" name="social-media" class="inline">Social Media
+        </label>
+        <label for="television">
+            <input id="television" type="checkbox" name="television" class="inline">Television
+        </label>
+        <label for="news">
+            <input id="news" type="checkbox" name="news" class="inline">Newspaper/Online Newspaper
+        </label>
+        <label for="w-o-m">
+            <input id="w-o-m" type="checkbox" name="w-o-m" class="inline">Word of Mouth
+        </label>
+        <label for="referral">
+            <input id="referral" type="checkbox" name="referral" class="inline">Referral
+        </label>
+        <label for="other">
+            <input id="other" type="checkbox" name="other" class="inline">Other
+        </label>
+      </fieldset>
+      <input type="submit" value="Submit" />
+    </form>
+    </section>
+  </body>
+</html>

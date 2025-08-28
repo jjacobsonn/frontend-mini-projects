@@ -23,6 +23,7 @@ This repository contains a collection of frontend projects I built to practice H
 | `responsive-contact-2` | Modern, responsive contact form with accessible markup and custom styling | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-2) |
 | `responsive-service-box` | Responsive service/feature box section with modern card design and CSS Grid | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-service-box) |
 | `javascript-counter` | Interactive counter app with increment/decrement functionality and responsive UI | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/javascript-counter) |
+| `registration-form` | Responsive registration form with accessible markup and modern UI | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/registration-form) |
 
 ## Features
 
