@@ -20,8 +20,8 @@ This repository contains a collection of frontend projects I built to practice H
 | `technical-documentation` | Responsive technical documentation site with fixed sidebar navigation | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/technical-documentation) |
 | `random-meme-generator` | Fun app that fetches and displays random memes from a public API | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/random-meme-generator) |
 | `responsive-contact-page` | Clean, responsive contact form page with modern UI and accessibility | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-page) |
-
 | `responsive-contact-2` | Modern, responsive contact form with accessible markup and custom styling | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-contact-2) |
+| `responsive-service-box` | Responsive service/feature box section with modern card design and CSS Grid | [View Project](https://github.com/jjacobsonn/frontend-mini-projects/tree/main/responsive-service-box) |
 
 ## Features
 
